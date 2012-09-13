@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookNet", "HookNet.vcproj", "{3E10721B-170A-489C-ADAC-06FB3E7800DD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3E10721B-170A-489C-ADAC-06FB3E7800DD}.Debug.ActiveCfg = Debug|Win32
+		{3E10721B-170A-489C-ADAC-06FB3E7800DD}.Debug.Build.0 = Debug|Win32
+		{3E10721B-170A-489C-ADAC-06FB3E7800DD}.Release.ActiveCfg = Release|Win32
+		{3E10721B-170A-489C-ADAC-06FB3E7800DD}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
